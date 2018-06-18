@@ -74,7 +74,8 @@
       "id": 7,
       "name": "Neptune",
       "overview": "The Windiest Planet",
-      "image": "assets/images/neptune.png",
+      "imageUrl": "assets/images/neptune.png",
+      "thumbUrl": "assets/images/neptune-thumb.png",
       "description": "Dark, cold and whipped by supersonic winds, Neptune is the last of the hydrogen and helium gas giants in our solar system. More than 30 times as far from the sun as Earth, the planet takes almost 165 Earth years to orbit our sun. In 2011 Neptune completed its first orbit since its discovery in 1846.",
       "distanceFromSun": 30.07,
       "numberOfMoons": 14
