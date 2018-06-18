@@ -4,7 +4,8 @@
       "id": 0,
       "name": "Mercury",
       "overview": "The Swiftest Planet",
-      "image": "assets/images/mercury.png",
+      "imageUrl": "assets/images/mercury.png",
+      "thumbUrl": "assets/images/mercury-thumb.png",
       "description": "Mercury's eccentric orbit takes the small planet as close as 47 million km (29 million miles) and as far as 70 million km (43 million miles) from the sun. If one could stand on the scorching surface of Mercury when it is at its closest point to the sun, the sun would appear more than three times as large as it does when viewed from Earth.",
       "distanceFromSun": 0.39,
       "numberOfMoons": 0
@@ -13,7 +14,8 @@
       "id": 1,
       "name": "Venus",
       "overview": "Planetary Hot Spot",
-      "image": "assets/images/venus.png",
+      "imageUrl": "assets/images/venus.png",
+      "thumbUrl": "assets/images/venus-thumb.png",
       "description": "Similar in structure and size to Earth, Venus' thick, toxic atmosphere traps heat in a runaway greenhouse effect. A permanent layer of clouds traps heat, creating surface temperatures hot enough to melt lead. Glimpses below the clouds reveal volcanoes and deformed mountains. Venus spins slowly in the opposite direction of most planets.",
       "distanceFromSun": 0.72,
       "numberOfMoons": 0
@@ -22,7 +24,8 @@
       "id": 2,
       "name": "Earth",
       "overview": "Our Home Planet",
-      "image": "assets/images/earth.png",
+      "imageUrl": "assets/images/earth.png",
+      "thumbUrl": "assets/images/earth-thumb.png",
       "description": "Earth, our home planet, is the only planet in our solar system known to harbor life - life that is incredibly diverse. All the things we need to survive exist under a thin layer of atmosphere that separates us from the cold, airless void of space.",
       "distanceFromSun": 1,
       "numberOfMoons": 1
@@ -31,7 +34,8 @@
       "id": 3,
       "name": "Mars",
       "overview": "The Red Planet",
-      "image": "assets/images/mars.png",
+      "imageUrl": "assets/images/mars.png",
+      "thumbUrl": "assets/images/mars-thumb.png",
       "description": "Mars is a cold desert world. It is half the diameter of Earth and has the same amount of dry land. Like Earth, Mars has seasons, polar ice caps, volcanoes, canyons and weather, but its atmosphere is too thin for liquid water to exist for long on the surface. There are signs of ancient floods on Mars, but evidence for water now exists mainly in icy soil and thin clouds.",
       "distanceFromSun": 1.52,
       "numberOfMoons": 2
@@ -40,7 +44,8 @@
       "id": 4,
       "name": "Jupiter",
       "overview": "King of the Planets",
-      "image": "assets/images/jupiter.png",
+      "imageUrl": "assets/images/jupiter.png",
+      "thumbUrl": "assets/images/jupiter-thumb.png",
       "description": "Jupiter, the most massive planet in our solar system -- with dozens of moons and an enormous magnetic field -- forms a kind of miniature solar system. Jupiter does resemble a star in composition, but it did not grow big enough to ignite. The planet's swirling cloud stripes are punctuated by massive storms such as the Great Red Spot, which has raged for hundreds of years.",
       "distanceFromSun": 5.2,
       "numberOfMoons": 67
@@ -49,7 +54,8 @@
       "id": 5,
       "name": "Saturn",
       "overview": "Jewel of Our Solar System",
-      "image": "assets/images/saturn.png",
+      "imageUrl": "assets/images/saturn.png",
+      "thumbUrl": "assets/images/saturn-thumb.png",
       "description": "Adorned with thousands of beautiful ringlets, Saturn is unique among the planets. All four gas giant planets have rings -- made of chunks of ice and rock -- but none are as spectacular or as complicated as Saturn's. Like the other gas giants, Saturn is mostly a massive ball of hydrogen and helium.",
       "distanceFromSun": 9.5,
       "numberOfMoons": 62
@@ -58,7 +64,8 @@
       "id": 6,
       "name": "Uranus",
       "overview": "The Sideways Planet",
-      "image": "assets/images/uranus.png",
+      "imageUrl": "assets/images/uranus.png",
+      "thumbUrl": "assets/images/uranus-thumb.png",
       "description": "Uranus is the only giant planet whose equator is nearly at right angles to its orbit. A collision with an Earth-sized object may explain the unique tilt. Nearly a twin in size to Neptune, Uranus has more methane in its mainly hydrogen and helium atmosphere than Jupiter or Saturn. Methane gives Uranus its blue tint.",
       "distanceFromSun": 19.19,
       "numberOfMoons": 27
